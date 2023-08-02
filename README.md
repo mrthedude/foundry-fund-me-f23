@@ -1,9 +1,10 @@
-// Things to Do //
-1. Proper README
-2. Integration tests
-   1. PIT STOP: How to make running scripts easier?? --> Makefile
-3. Programatic verification
-4. Push to GitHub
+<h1> WORK IN PROGRESS </h1><br>
+Things to Do:<br>
+1. Build a Proper README page
+2. Finish Patrick's Course
+3. Contribute to the Space
+4. ???
+5. Profit
 
 # About
 
